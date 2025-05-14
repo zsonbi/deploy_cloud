@@ -1,5 +1,5 @@
 services:
   app:
-    image: zsonbi/beermapping:latest
+    image: zsonbi/beermapping-cloud:latest
     ports:
       - 9911:8080
